@@ -1,0 +1,15 @@
+{
+  "NServiceBus.MessageId": "52f2c214-dabb-408c-b561-abc800ddaea2",
+  "NServiceBus.MessageIntent": "Publish",
+  "NServiceBus.RelatedTo": "351e1a0c-d618-48fc-8f52-abc800dd8ca9",
+  "NServiceBus.ConversationId": "5a4b8e09-b04e-48cd-9668-abc800dd79a0",
+  "NServiceBus.CorrelationId": "022af678-9d7b-49d8-ac26-abc800dd799b",
+  "NServiceBus.ReplyToAddress": "RentCarService",
+  "NServiceBus.OriginatingMachine": "LAPTOP-100117",
+  "NServiceBus.OriginatingEndpoint": "RentCarService",
+  "$.diagnostics.originating.hostid": "cb4d6674040e38a25d5d21318281577c",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "Messages.RentCarResponse, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;Messages.OrderResponse, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.3.0",
+  "NServiceBus.TimeSent": "2020-05-27 13:27:07:291628 Z"
+}

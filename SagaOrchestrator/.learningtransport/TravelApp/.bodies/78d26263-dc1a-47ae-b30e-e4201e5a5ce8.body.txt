@@ -1,0 +1,1 @@
+<?xml version="1.0"?><RentCarResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:baseType="Messages.OrderResponse" xmlns="http://tempuri.net/Messages"><IsBooked>true</IsBooked><TripId>afa34c36-4896-4d74-82aa-56d20ac6394c</TripId></RentCarResponse>
